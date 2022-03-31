@@ -1,5 +1,7 @@
 body{
     background-color: rgb(196, 216, 253);
+    margin: 1px 1px 1px 1px;
+    padding: 1px 1px 1px 1px;
 }
 h2{
     color:blue;
@@ -72,4 +74,10 @@ p{
 }
 li{
     color:blueviolet;
+}
+
+
+.button{
+ background-color: green;
+ padding: 10px 30px;
 }
